@@ -19,10 +19,20 @@ navigation:
 # - title: Contact
 #   url: /contact
 
+defaults:
+ -
+  scope:
+    path: ""
+    type: "posts"
+  values:
+    comments: true
+
 social:
-   github: simnotes
-   twitter: 
-   facebook: simon.espunkt
-   email: simnotes@gmail.com
+  github: simnotes
+  twitter: 
+  facebook: simon.espunkt
+  email: simnotes@gmail.com
+  disqus_shortname: simnotes
 
 google_analytics: ""
+

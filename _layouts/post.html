@@ -12,6 +12,11 @@ layout: default
   
   {{ content }}
 
+  <!-- DISQUS COMMENTS -->
+  {% if page.comments %}
+  {% include disqus.html %}
+  {% endif %}
+
   <!-- POST NAVIGATION -->
   <div class="postNav clearfix">
     {% if page.previous.url %} 
