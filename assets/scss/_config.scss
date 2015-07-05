@@ -5,12 +5,15 @@ COLOR VARIABLES
 // Better default colors
 // Cool
 $aqua:  #7FDBFF;
+$polar: #00B2EE;
 $blue:  #0074D9;
 $navy:  #001F3F;
 $teal:  #39CCCC;
 $green: #2ECC40;
 $olive: #3D9970;
 $lime:  #01FF70;
+$olddarkblue: #233E5B;
+$darkblue: #0B6ED7;
 // Warm
 $yellow:  #FFDC00;
 $orange:  #FF851B;
@@ -25,8 +28,8 @@ $grey:   #aaa;
 $black:  #111;
 
 // Color variables
-$primary-color: seagreen;
-$secondary-color: #233E5B;
+$primary-color: $polar;
+$secondary-color: $darkblue;
 $tertiary-color: #aaa;
 $link-color: $primary-color;
 

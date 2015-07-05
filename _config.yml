@@ -1,6 +1,7 @@
 title: Simons Notes
 description: Big data and coding adventures.
 
+author: Simon Streubel
 url: http://simnotes.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
@@ -13,10 +14,10 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+# - title: About
+#   url: /about
+# - title: Contact
+#   url: /contact
 
 social:
    github: simnotes
