@@ -2,6 +2,7 @@
 layout: post
 title:  "Apache Log Parsing with Hadoop Hive - Part 0"
 date:   2015-7-8
+image: elephant.jpg
 published: true
 ---
 
