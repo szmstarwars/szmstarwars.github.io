@@ -2,7 +2,7 @@
 layout: post
 title:  "A New Beginning"
 date:   2015-7-7
-published: false
+published: true
 ---
 
 <p class="intro"><span class="dropcap">I</span> am starting all over - again. Maybe this will take some more time to die than my other projects. We'll find out together.</p>
