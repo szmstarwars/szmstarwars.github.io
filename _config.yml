@@ -1,8 +1,8 @@
-title: Simons Notes
-description: Big data and coding adventures.
+title: SZM Star Wars
+description: A Star Wars - Edge of the Empire Roleplay Podcast
 
-author: Simon Streubel
-url: http://simnotes.github.io
+author: Jonston
+url: http://szmstarwars.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -28,11 +28,11 @@ defaults:
     comments: true
 
 social:
-  github: simnotes
+  github: szmstarwars
   twitter: 
-  facebook: simon.espunkt.9
-  email: simnotes@gmail.com
-  disqus_shortname: simnotes
+  facebook: 
+  email:
+  disqus_shortname: szmstarwars
 
-google_analytics: "UA-64804367-1"
+google_analytics: ""
 
